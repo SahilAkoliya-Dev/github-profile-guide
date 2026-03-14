@@ -3,9 +3,9 @@
 # 🚀 GitHub Profile Guide
 ### Build the Best GitHub Profile — Step by Step
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/github-profile-guide?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/github-profile-guide?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.github-profile-guide)
+![GitHub stars](https://img.shields.io/github/stars/SahilAkoliya-Dev/github-profile-guide?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SahilAkoliya-Dev/github-profile-guide?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SahilAkoliya-Dev.github-profile-guide)
 
 **The only guide you need to go from a blank GitHub profile to a profile that stands out from thousands of developers.**
 
